@@ -4,5 +4,5 @@ aiohttp==3.10.3
 # See https://github.com/yaml/pyyaml/issues/724#issuecomment-1638587228
 # blacksheep==2.0.7
 starlette==0.38.5
-tornado==6.4.1
+tornado==6.5.5
 uvicorn==0.30.6
